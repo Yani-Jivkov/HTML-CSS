@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Trees</title>
+        <link rel="stylesheet" type="text/css" href="Final.css"/>
+		
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+		
+        <style>
+            body {
+              background-image: url('tree33.jpg');
+            }
+        </style>
+    </head>
+    <body>
+        <nav id="topmenu">
+            <ul>
+                <li><a href="file:///C:/Users/Admin/Documents/Final%20Html/Final2.html">Donations</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="file:///C:/Users/Admin/Documents/Final%20Html/Final3.html">Login</a></li>
+            </ul>
+        </nav>
+        <h1><b>Overview</b></h1>
+        <p>The tree growth habit is an evolutionary adaptation found in different groups of plants:
+        by growing taller, trees are able to compete better for sunlight. Trees
+        tend to be tall and long-lived, some reaching several thousand years
+        old. Several trees are among the oldest organisms now living.
+        Trees have modified structures such as thicker stems composed of
+        specialised cells that add structural strength and durability,
+        allowing them to grow taller than many other plants and to spread
+        out their foliage. They differ from shrubs, which have a similar
+        growth form, by usually growing larger and having a single main
+        system; but there is no consistent distinction between a tree
+        and a shrub, made more confusing by the fact that trees may be
+        reduced in size under harsher environmental conditions such as on mountains
+        and subarctic areas. The tree form has evolved separately in unrelated classes of
+        plants in response to similar environmental challenges, making it a classic example
+        of parallel evolution. With an estimated 60,000-100,000 species, the number of
+        trees worldwide might total twenty-five per cent of all living plant species.
+        The greatest number of these grow in tropical regions; many of these areas
+         have not yet been fully surveyed by botanists, making tree diversity and ranges poorly known.
+        </p>
+    </body>
+</html>

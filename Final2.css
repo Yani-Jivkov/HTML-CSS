@@ -1,0 +1,48 @@
+#topmenu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: dimgray;
+    text-align: center;
+}
+
+#topmenu li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 25px;
+}
+
+#topmenu a{
+    text-decoration: none;
+    color:#ffffff
+}
+
+table tr, td, th{
+    border: 1px solid black;
+    background-color: burlywood;
+    font-size: 33px;
+}
+
+table {
+    padding-left: 600px;
+    padding-top: 120px;
+    float: left;
+}
+
+td {
+    padding-left: 20px;
+}
+
+.bold {
+    font-weight: bold;
+
+}
+
+.result {
+    text-align: right;
+    width: 400px;
+    padding-right: 25px;
+}
+
+
+
